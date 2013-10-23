@@ -27,4 +27,4 @@ while True:
                 inputs.remove(r)
             else:
                 print data
-                r.send(" [data received") #��������
+                r.send(" [data received") #添加代码  #更改本行注释看看github比对页面效果
