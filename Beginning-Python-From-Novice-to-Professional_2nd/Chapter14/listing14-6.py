@@ -27,3 +27,4 @@ while True:
                 inputs.remove(r)
             else:
                 print data
+                r.send(" [data received") #·µ»ØÊı¾İ
