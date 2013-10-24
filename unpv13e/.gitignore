@@ -2,4 +2,9 @@
 /.cproject
 /.project
 
-/*.exe
+/config.h
+/config.log
+/config.status
+/Make.defines
+
+*.exe
